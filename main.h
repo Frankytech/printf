@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Frankytech 
-Ikeneri95
-/
-printf
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-printf/main.h
-@Ikeneri95
-Ikeneri95 Create main.h
-Latest commit 9eeba65 yesterday
- History
- 1 contributor
-117 lines (96 sloc)  3.44 KB
-
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
